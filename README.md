@@ -52,5 +52,6 @@ Step7: Use the Line and Clustered column cahart, Stacked Bar charts and Donut ch
 
 **Desktop View**  
 
+![Customer Churn Analysis](https://user-images.githubusercontent.com/47376889/230772665-676eaeca-d32c-49d0-ae0e-d0a7688aa80d.JPG)
 
 
