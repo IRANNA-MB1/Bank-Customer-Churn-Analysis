@@ -12,7 +12,7 @@ This dataset includes information about customers such as credit_score, country,
 The following are some of the key performance indicators (KPIs) used to measure bank customer churn in this Power BI project:  
 
 **Total Customers:** The total number of customers in the bank.  
-Active Customers:** The number of customers who have used their accounts or made transactions within a specific time period (e.g., past month, past quarter).
+Active Customers:** The number of customers who have used their accounts or made transactions within a specific time period (e.g., past month, past quarter).  
 **Inactive Customers:** The number of customers who have not used their accounts or made transactions within a specific time period and also churned customers.  
 **Credit Card Holders:** The number of customers who have at least one credit card with the bank.  
 **Non-Credit Card Holders:** The number of customers who do not have any credit cards with the bank.  
